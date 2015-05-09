@@ -4,3 +4,5 @@ This is a website made by Matic Repse and Tadej Hiti on a request to make a webs
 The website design was made to be simplistic and good looking. 
 
 ![ScreenShot](/screenshots/Screenshot 2015-05-09 12.03.png)
+
+http://gibajinzmagaj.si/
